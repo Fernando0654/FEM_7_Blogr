@@ -2,7 +2,7 @@ let ul_connect = document.getElementById("sub-connect");
 let nav = document.getElementById("nav");
 let icon_navbar = document.getElementById("nav-icon");
 let arrow = document.getElementById("connect").lastChild;
-let arrows_imgs = document.querySelectorAll("#arrow");
+let arrows_imgs = document.querySelectorAll(".arrow");
 let toggle_connect = false;
 let nav_toggle = false;
 
