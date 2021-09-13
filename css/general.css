@@ -295,6 +295,7 @@ main {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
+  min-width: 400px;
 }
 
 main .content-wrapper {
@@ -313,6 +314,7 @@ main .content-wrapper {
       -ms-flex-pack: center;
           justify-content: center;
   margin-top: 6em;
+  min-width: 400px;
   margin-bottom: 5em;
   position: relative;
 }
@@ -344,6 +346,7 @@ main .content-wrapper .content-text {
   color: rgba(49, 43, 43, 0.747);
   text-align: center;
   width: 80%;
+  min-width: 400px;
   margin: auto;
 }
 
@@ -406,6 +409,7 @@ main .content-wrapper.wrapper_filled {
 }
 
 footer {
+  min-width: 380px;
   background-color: #24242c;
   padding: 1em;
   border-top-right-radius: 140px;

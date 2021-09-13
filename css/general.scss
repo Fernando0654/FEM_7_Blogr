@@ -192,9 +192,11 @@ header {
 
 main {
   @include flex-box(column);
+  min-width: 400px;
   .content-wrapper {
     @include flex-box(column);
     margin-top: 6em;
+    min-width: 400px;
     margin-bottom: 5em;
     position: relative;
     h2 {
@@ -215,6 +217,7 @@ main {
     .content-text {
       @include font_style("Ubuntu", 1.1rem, rgba(49, 43, 43, 0.747));
       width: 80%;
+      min-width: 400px;
       margin: auto;
       h2 {
         margin-top: 2em;
@@ -269,6 +272,7 @@ main {
 }
 
 footer {
+  min-width: 380px;
   background-color: #24242c;
   padding: 1em;
   border-top-right-radius: 140px;
