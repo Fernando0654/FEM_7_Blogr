@@ -40,7 +40,7 @@ header {
   display: flex;
   position: relative;
   min-height: 90vh;
-  min-width: 400px;
+  min-width: 430px;
   background-color: rgb(206, 64, 73);
   background-image: url(../assets/img/bg-pattern-intro.svg);
   background-position: -50vh -30vh;
@@ -192,7 +192,7 @@ header {
 
 main {
   @include flex-box(column);
-  min-width: 400px;
+  min-width: 430px;
   .content-wrapper {
     @include flex-box(column);
     margin-top: 6em;

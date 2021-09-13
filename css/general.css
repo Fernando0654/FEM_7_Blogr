@@ -17,7 +17,7 @@ header {
   display: flex;
   position: relative;
   min-height: 90vh;
-  min-width: 400px;
+  min-width: 430px;
   background-color: #ce4049;
   background-image: url(../assets/img/bg-pattern-intro.svg);
   background-position: -50vh -30vh;
@@ -295,7 +295,7 @@ main {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
           justify-content: center;
-  min-width: 400px;
+  min-width: 430px;
 }
 
 main .content-wrapper {
