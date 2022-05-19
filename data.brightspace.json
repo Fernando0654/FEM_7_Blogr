@@ -1,4 +1,3 @@
-
 [
     {
         "id": "1",
@@ -6,15 +5,89 @@
         "profesores": [
             {
                 "nombre": "GABRIELA ACOSTA GÓMEZ",
-                "grupos": ["AFXD0720", "AFXD0120.1", "AFXD0120.2"],
-                "materias": ["GESTIÓN DE NEGOCIOS EN LOS NUEVOS MEDIOS", "TALLER DE PRODUCCIÓN I", "TALLER DE PRODUCCIÓN I"],
+                "grupos": [
+                    "AFXD0720",
+                    "AFXD0120.1",
+                    "AFXD0120.2"
+                ],
+                "materias": [
+                    "GESTIÓN DE NEGOCIOS EN LOS NUEVOS MEDIOS",
+                    "TALLER DE PRODUCCIÓN I",
+                    "TALLER DE PRODUCCIÓN I"
+                ],
                 "encuesta": "https://docs.google.com/forms/d/1i6FyUBv51BxdU5iras7sc93nCKADH8-0M5T8TknGu8Y/edit?usp=sharing"
             },
             {
                 "nombre": "MANUEL ALEJANDRO ALMAZAN ENRIQUEZ",
-                "grupos": ["AFXD0721.2", "AFXD0721.3"],
-                "materias": ["ANIMACIÓN 2D", "ANIMACIÓN 2D"],
+                "grupos": [
+                    "AFXD0721.2",
+                    "AFXD0721.3"
+                ],
+                "materias": [
+                    "ANIMACIÓN 2D",
+                    "ANIMACIÓN 2D"
+                ],
                 "encuesta": "https://forms.gle/HoxAMvJ4uhDRw5WL6"
+            },
+            {
+                "nombre": "Eusebio Bañuelos González",
+                "grupos": [
+                    "AFXD0122",
+                    "AFXD1021",
+                    "GDD0122"
+                ],
+                "materias": [
+                    "DIBUJO ANATÓMICO",
+                    "DIBUJO DE LA FIGURA HUMANA",
+                    "DIBUJO ANATÓMICO"
+                ],
+                "encuesta": "https://forms.gle/uqpUx1fPNLAortiu7"
+            },
+            {
+                "nombre": "Daniel Armando Cadena Llamas",
+                "grupos": [
+                    "AFXD1021",
+                    "AFXD1020",
+                    "AFXD1019",
+                    "AFXD0721.3",
+                    "AFXD0721.4"
+                ],
+                "materias": [
+                    "STORYBOARD Y ANIMATIC",
+                    "HISTORIA DEL CINE ANIMADO",
+                    "TALLER DE PRODUCCIÓN II",
+                    "MODELADO DE ESCENARIOS Y OBJETOS",
+                    "MODELADO DE ESCENARIOS Y OBJETOS"
+                ],
+                "encuesta": "https://forms.gle/F5uh6sSrmX4FNAR49"
+            },
+            {
+                "nombre": "Walter Campoy Walkup",
+                "grupos": [
+                    "AFXD0721.1",
+                    "AFXD0719",
+                    "AFXD0721.2",
+                    "AFXD0721.3",
+                    "AFXD0721.4"
+                ],
+                "materias": [
+                    "TALLER DE PUESTA EN ESCENA",
+                    "PROYECTO TERMINAL DE ANIMACIÓN",
+                    "TALLER DE PUESTA EN ESCENA",
+                    "TALLER DE PUESTA EN ESCENA",
+                    "TALLER DE PUESTA EN ESCENA"
+                ],
+                "encuesta": "https://forms.gle/wjrMZS9JHHLuN33S8"
+            },
+            {
+                "nombre": "Gaspar Cárdenas Guzmán",
+                "grupos": [
+                    "AFXD0719"
+                ],
+                "materias": [
+                    "DISEÑO SONORO"
+                ],
+                "encuesta": "https://forms.gle/mXDvy5k9LLcp5imv9"
             }
         ]
     },
@@ -24,15 +97,63 @@
         "profesores": [
             {
                 "nombre": "MANUEL ALEJANDRO ALMAZAN ENRIQUEZ",
-                "grupos": ["GDD1020", "GDD1020", "GDD1019", "GDD0719"],
-                "materias": ["ANIMACIÓN 3D", "DISEÑO Y PROGRAMACIÓN DE VIDEOJUEGOS I", "DISEÑO Y PROGRAMACIÓN DE VIDEOJUEGOS II", "SEMINARIO DE DISEÑO DE VIDEOJUEGOS"],
+                "grupos": [
+                    "GDD1020",
+                    "GDD1020",
+                    "GDD1019",
+                    "GDD0719"
+                ],
+                "materias": [
+                    "ANIMACIÓN 3D",
+                    "DISEÑO Y PROGRAMACIÓN DE VIDEOJUEGOS I",
+                    "DISEÑO Y PROGRAMACIÓN DE VIDEOJUEGOS II",
+                    "SEMINARIO DE DISEÑO DE VIDEOJUEGOS"
+                ],
                 "encuesta": "https://forms.gle/HoxAMvJ4uhDRw5WL6"
             },
             {
                 "nombre": "José Ramón Arias González",
-                "grupos": ["GDD0720"],
-                "materias": ["TÉCNICAS DE ANIMACIÓN PARA VIDEOJUEGOS"],
+                "grupos": [
+                    "GDD0720"
+                ],
+                "materias": [
+                    "TÉCNICAS DE ANIMACIÓN PARA VIDEOJUEGOS"
+                ],
                 "encuesta": "https://forms.gle/j37m1doPVqPw4LBx6"
+            },
+            {
+                "nombre": "Daniel Armando Cadena Llamas",
+                "grupos": [
+                    "GDD0121"
+                ],
+                "materias": [
+                    "HISTORIA DEL ARTE MODERNO"
+                ],
+                "encuesta": "https://forms.gle/F5uh6sSrmX4FNAR49"
+            },
+            {
+                "nombre": "Gaspar Cárdenas Guzmán",
+                "grupos": [
+                    "GDD1021",
+                    "GDD0721",
+                    "GDD0720"
+                ],
+                "materias": [
+                    "ARTE PARA VIDEOJUEGOS",
+                    "DISEÑO DE JUEGOS",
+                    "AUDIO PARA PROYECTOS INTERACTIVOS"
+                ],
+                "encuesta": "https://forms.gle/mXDvy5k9LLcp5imv9"
+            },
+            {
+                "nombre": "Iván André Chapela Fauchey",
+                "grupos": [
+                    "GDD1019"
+                ],
+                "materias": [
+                    "PANORAMA DE LA INDUSTRIA DEL VIDEOJUEGO"
+                ],
+                "encuesta": "https://forms.gle/WpZ5sBuUkYDHC4WM6"
             }
         ]
     },
@@ -42,21 +163,77 @@
         "profesores": [
             {
                 "nombre": "SANTIAGO ÁLVAREZ CACHO",
-                "grupos": ["MBDD0120"],
-                "materias": ["ROLES Y PROTOCOLOS EN EVENTOS"],
+                "grupos": [
+                    "MBDD0120"
+                ],
+                "materias": [
+                    "ROLES Y PROTOCOLOS EN EVENTOS"
+                ],
                 "encuesta": "https://forms.gle/32N35aLMnqzaQS9G8"
             },
             {
                 "nombre": "Manuel Alfonso Arredondo Cisneros",
-                "grupos": ["MBDD0719"],
-                "materias": ["LEGISLACIÓN EMPRESARIAL"],
+                "grupos": [
+                    "MBDD0719"
+                ],
+                "materias": [
+                    "LEGISLACIÓN EMPRESARIAL"
+                ],
                 "encuesta": "https://forms.gle/bn4hL5n3WjePSuG78"
             },
             {
                 "nombre": "Christian Alain Balderas Aceves",
-                "grupos": ["MBDD0122", "MBDD0420", "MBDD0120"],
-                "materias": ["INTRODUCCIÓN AL ANÁLISIS CRÍTICO", "TÉCNICAS DE PRODUCCIÓN MUSICAL", "APRECIACIÓN MUSICAL"],
+                "grupos": [
+                    "MBDD0122",
+                    "MBDD0420",
+                    "MBDD0120"
+                ],
+                "materias": [
+                    "INTRODUCCIÓN AL ANÁLISIS CRÍTICO",
+                    "TÉCNICAS DE PRODUCCIÓN MUSICAL",
+                    "APRECIACIÓN MUSICAL"
+                ],
                 "encuesta": "https://forms.gle/QJmtQYfzCK5UhZXPA"
+            },
+            {
+                "nombre": "Ana Gabriela Cabrera Monroy",
+                "grupos": [
+                    "MBDD0721"
+                ],
+                "materias": [
+                    "DESARROLLO Y MANEJO DE MARCAS"
+                ],
+                "encuesta": "https://forms.gle/2gW7EdkWJL7azxBz8"
+            },
+            {
+                "nombre": "Miguel Campos Rodríguez",
+                "grupos": [
+                    "MBDD0721"
+                ],
+                "materias": [
+                    "DESARROLLO DE NUEVOS NEGOCIOS"
+                ],
+                "encuesta": "https://forms.gle/V5pH6buhxxsZxA5a9"
+            },
+            {
+                "nombre": "Mishel Ceballos Ortiz",
+                "grupos": [
+                    "MBDD1020"
+                ],
+                "materias": [
+                    "TALLER DE CREATIVIDAD"
+                ],
+                "encuesta": "https://forms.gle/KvTgzz91c8G5Rx476"
+            },
+            {
+                "nombre": "Karina Pilar Cervantes Jiménez",
+                "grupos": [
+                    "MBDD0721"
+                ],
+                "materias": [
+                    "INTRODUCCIÓN A LA MERCADOTECNIA"
+                ],
+                "encuesta": "https://forms.gle/iD8GNWYqBKhCpfRg9"
             }
         ]
     },
@@ -66,9 +243,25 @@
         "profesores": [
             {
                 "nombre": "Rafael Arias González",
-                "grupos": ["GPD0120"],
-                "materias": ["INTELIGENCIA ARTIFICIAL AVANZADA"],
+                "grupos": [
+                    "GPD0120"
+                ],
+                "materias": [
+                    "INTELIGENCIA ARTIFICIAL AVANZADA"
+                ],
                 "encuesta": "https://forms.gle/XS2KfFaKVEsDP2LF8"
+            },
+            {
+                "nombre": "Pedro de Jesús Cervantes Pintor",
+                "grupos": [
+                    "GPD0121",
+                    "GPD0720"
+                ],
+                "materias": [
+                    "PRINCIPIOS DE LA COMPUTACIÓN GRÁFICA",
+                    "COMPUTACIÓN GRÁFICA"
+                ],
+                "encuesta": "https://forms.gle/fQ13CPw8wWkUvQGLA"
             }
         ]
     },
@@ -78,21 +271,215 @@
         "profesores": [
             {
                 "nombre": "JESÚS LOMBARDO ARMENTA LÓPEZ",
-                "grupos": ["AED0420"],
-                "materias": ["INVESTIGACIÓN APLICADA A LA INDUSTRIA DE LOS MEDIOS CREATIVOS"],
+                "grupos": [
+                    "AED0420"
+                ],
+                "materias": [
+                    "INVESTIGACIÓN APLICADA A LA INDUSTRIA DE LOS MEDIOS CREATIVOS"
+                ],
                 "encuesta": "https://forms.gle/9PVGYseh1f3ouHoi8"
             },
             {
                 "nombre": "Fabian Ávila Elizalde",
-                "grupos": ["AED0122.2", "AED0121.1", "AED0121.2"],
-                "materias": ["INTRODUCCIÓN A LA CULTURA Y SUS MOVIMIENTOS", "PRODUCCIÓN DE MÚSICA ELECTRÓNICA", "PRODUCCIÓN DE MÚSICA ELECTRÓNICA"],
+                "grupos": [
+                    "AED0122.2",
+                    "AED0121.1",
+                    "AED0121.2"
+                ],
+                "materias": [
+                    "INTRODUCCIÓN A LA CULTURA Y SUS MOVIMIENTOS",
+                    "PRODUCCIÓN DE MÚSICA ELECTRÓNICA",
+                    "PRODUCCIÓN DE MÚSICA ELECTRÓNICA"
+                ],
                 "encuesta": "https://forms.gle/U8ujaMbKMwwB3quC8"
             },
             {
                 "nombre": "Christian Alain Balderas Aceves",
-                "grupos": ["AED0122.1", "AED0122.2", "AED0421"],
-                "materias": ["INTRODUCCIÓN AL ANÁLISIS CRÍTICO", "INTRODUCCIÓN AL ANÁLISIS CRÍTICO", "TEORÍA MUSICAL II"],
+                "grupos": [
+                    "AED0122.1",
+                    "AED0122.2",
+                    "AED0421"
+                ],
+                "materias": [
+                    "INTRODUCCIÓN AL ANÁLISIS CRÍTICO",
+                    "INTRODUCCIÓN AL ANÁLISIS CRÍTICO",
+                    "TEORÍA MUSICAL II"
+                ],
                 "encuesta": "https://forms.gle/QJmtQYfzCK5UhZXPA"
+            },
+            {
+                "nombre": "Octavio David Bernal López",
+                "grupos": [
+                    "AED1019.1",
+                    "AED1019.1"
+                ],
+                "materias": [
+                    "INDUSTRIA INTERACTIVA",
+                    "APLICACIONES ESPECIALIZADAS II"
+                ],
+                "encuesta": "https://forms.gle/znWa77Bxy39yuktC6"
+            },
+            {
+                "nombre": "Raúl de Jesús Bustos Castañeda",
+                "grupos": [
+                    "AED0422",
+                    "AED0122.1",
+                    "AED0122.2",
+                    "AED0121.1",
+                    "AED0121.2"
+                ],
+                "materias": [
+                    "TALLER DE ENTRENAMIENTO AUDITIVO I",
+                    "AUDIO DIGITAL",
+                    "AUDIO DIGITAL",
+                    "TRANSMISIÓN Y GRABACIÓN EN DIRECTO",
+                    "TRANSMISIÓN Y GRABACIÓN EN DIRECTO"
+                ],
+                "encuesta": "https://forms.gle/H8oX4QJtecFKJ3Qy8"
+            },
+            {
+                "nombre": "Niuni Butrón Álvarez",
+                "grupos": [
+                    "AED0721.1",
+                    "AED0721.2"
+                ],
+                "materias": [
+                    "CIRCUITOS ELÉCTRICOS",
+                    "CIRCUITOS ELÉCTRICOS"
+                ],
+                "encuesta": "https://forms.gle/dJND6p7vEnKJSrfB6"
+            },
+            {
+                "nombre": "Emmanuel Carrillo Casañas",
+                "grupos": [
+                    "AED0122.1",
+                    "AED0122.2"
+                ],
+                "materias": [
+                    "CONTEXTO HISTÓRICO DE LA INDUSTRIA DEL SONIDO",
+                    "CONTEXTO HISTÓRICO DE LA INDUSTRIA DEL SONIDO"
+                ],
+                "encuesta": "https://forms.gle/hRQky7H4MrUCZ3z29"
+            },
+            {
+                "nombre": "Mishel Ceballos Ortiz",
+                "grupos": [
+                    "AED0420"
+                ],
+                "materias": [
+                    "TALLER DE CREATIVIDAD"
+                ],
+                "encuesta": "https://forms.gle/KvTgzz91c8G5Rx476"
+            },
+            {
+                "nombre": "Karina Pilar Cervantes Jiménez",
+                "grupos": [
+                    "AED0720.1",
+                    "AED0720.2"
+                ],
+                "materias": [
+                    "INTRODUCCIÓN A LA MERCADOTECNIA",
+                    "INTRODUCCIÓN A LA MERCADOTECNIA"
+                ],
+                "encuesta": "https://forms.gle/iD8GNWYqBKhCpfRg9"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "carrera": "Licenciatura en Comunicación y Nuevos Medios",
+        "profesores": [
+            {
+                "nombre": "Adriana Barraza López",
+                "grupos": [
+                    "CCNM0721"
+                ],
+                "materias": [
+                    "SOCIOLOGÍA Y PSICOLOGÍA DE LOS MEDIOS"
+                ],
+                "encuesta": "https://forms.gle/Fkj1soNZ6bxbZVVJ6"
+            },
+            {
+                "nombre": "Ivonne Elizabeth Adriana Castañeda Tovar",
+                "grupos": [
+                    "CCNM0122"
+                ],
+                "materias": [
+                    "EDICIÓN DE IMÁGENES"
+                ],
+                "encuesta": "https://forms.gle/UMuYyNdXe5bWKugPA"
+            },
+            {
+                "nombre": "Erick David Chino Martínez",
+                "grupos": [
+                    "CCNM0122"
+                ],
+                "materias": [
+                    "ARQUITECTURA Y DISEÑO WEB"
+                ],
+                "encuesta": "https://forms.gle/xdVQnwtxh4uVytha8"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "carrera": "Licenciatura en Cine Digital y Postproducción",
+        "profesores": [
+            {
+                "nombre": "Francisco Bribiesca Páramo",
+                "grupos": [
+                    "DFD0122.1",
+                    "DFD0122.2"
+                ],
+                "materias": [
+                    "SONIDO DIRECTO",
+                    "SONIDO DIRECTO"
+                ],
+                "encuesta": "https://forms.gle/y6G986HeVwRoptDAA"
+            },
+            {
+                "nombre": "Antonio Camarillo Vázquez",
+                "grupos": [
+                    "DFD0122.1",
+                    "DFD0122.2"
+                ],
+                "materias": [
+                    "GÉNEROS CINEMATOGRÁFICOS",
+                    "GÉNEROS CINEMATOGRÁFICOS"
+                ],
+                "encuesta": "https://forms.gle/e2ES5NYNb7wVoPYy5"
+            },
+            {
+                "nombre": "Leslie Marlene Castro Pérez",
+                "grupos": [
+                    "DFD0120",
+                    "DFD1019",
+                    "DFD0719.1",
+                    "DFD0719.2"
+                ],
+                "materias": [
+                    "DESARROLLO DE CARPETA II",
+                    "TALLER DE PRODUCCIÓN DE PROYECTO FINAL",
+                    "POST-PRODUCCIÓN DE PROYECTO FINAL",
+                    "POST-PRODUCCIÓN DE PROYECTO FINAL"
+                ],
+                "encuesta": "https://forms.gle/x88d1d7mivqDkPRw6"
+            },
+            {
+                "nombre": "Iker Compean Leroux",
+                "grupos": [
+                    "DFD1021",
+                    "DFD0720.1",
+                    "DFD0720.2",
+                    "DFD0120"
+                ],
+                "materias": [
+                    "GUION II",
+                    "GUION DE FICCIÓN",
+                    "GUION DE FICCIÓN",
+                    "TALLER AVANZADO DE GUION PARA PROYECTO FINAL"
+                ],
+                "encuesta": "https://forms.gle/L3p1hKtkwAoANNJw6"
             }
         ]
     }
