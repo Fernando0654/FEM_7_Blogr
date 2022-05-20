@@ -8,7 +8,7 @@
                 "profesores": [
                     {
                         "nombre": "Daniel Armando Cadena Llamas",
-                        "materias": ["TALLER DE PRODUCCIÓN II"],
+                        "materias": ["TALLER DE PRODUCCIÓN II", "MATERIA DOS", "MATERIA TRES"],
                         "encuesta": "https://forms.gle/F5uh6sSrmX4FNAR49"
                     },
                     {
