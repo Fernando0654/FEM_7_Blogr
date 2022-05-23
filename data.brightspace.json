@@ -8,7 +8,7 @@
                 "profesores": [
                     {
                         "nombre": "Daniel Armando Cadena Llamas",
-                        "materias": ["TALLER DE PRODUCCIÓN II", "MATERIA DOS", "MATERIA TRES"],
+                        "materias": ["TALLER DE PRODUCCIÓN II"],
                         "encuesta": "https://forms.gle/F5uh6sSrmX4FNAR49"
                     },
                     {
@@ -45,6 +45,356 @@
                         "nombre": "Dulce María Romero Mier y Terán",
                         "materias": ["MARCO LEGAL PARA LOS NUEVOS MEDIOS"],
                         "encuesta": "https://forms.gle/KH4qXxPJ5BMRRyzK8"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0720",
+                "profesores": [
+                    {
+                        "nombre": "GABRIELA ACOSTA GÓMEZ",
+                        "materias": ["GESTIÓN DE NEGOCIOS EN LOS NUEVOS MEDIOS"],
+                        "encuesta": "https://docs.google.com/forms/d/1i6FyUBv51BxdU5iras7sc93nCKADH8-0M5T8TknGu8Y/edit?usp=sharing"
+                    },
+                    {
+                        "nombre": "Carlos Fernando Gamboa Verduzco",
+                        "materias": ["CONCEPTUALIZACIÓN DE PROYECTO"],
+                        "encuesta": "https://forms.gle/3MnFMK5dG46kNvHu7"
+                    },
+                    {
+                        "nombre": "Arturo Hernández Muñoz",
+                        "materias": ["ANIMACIÓN DE PERSONAJES 3D: MECÁNICA CORPORAL", "ANIMACIÓN DE PERSONAJES 3D: EXPRESIÓN CORPORAL"],
+                        "encuesta": "https://forms.gle/toixt8xwcafQqWRr9"
+                    },
+                    {
+                        "nombre": "Imuri Juárez Elenes",
+                        "materias": ["RIGGING 3D"],
+                        "encuesta": "https://forms.gle/ajHeUjeLEEZSFNrB8"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0120.1",
+                "profesores": [
+                    {
+                        "nombre": "GABRIELA ACOSTA GÓMEZ",
+                        "materias": ["TALLER DE PRODUCCIÓN I"],
+                        "encuesta": "https://docs.google.com/forms/d/1i6FyUBv51BxdU5iras7sc93nCKADH8-0M5T8TknGu8Y/edit?usp=sharing"
+                    },
+                    {
+                        "nombre": "Ricardo Dorantes Montaño",
+                        "materias": ["DISEÑO DE GRÁFICOS EN MOVIMIENTO"],
+                        "encuesta": "https://forms.gle/v7zkzKBH6fnT2ADRA"
+                    },
+                    {
+                        "nombre": "Roberto Ham Peláez",
+                        "materias": ["PRODUCCIÓN DE CORTOMETRAJE DE ANIMACIÓN I"],
+                        "encuesta": "https://forms.gle/j5MpkL1NAeqCp5pE8"
+                    },
+                    {
+                        "nombre": "Arturo Hernández Muñoz",
+                        "materias": ["DISEÑO Y GESTIÓN DE FLUJOS DE TRABAJO"],
+                        "encuesta": "https://forms.gle/toixt8xwcafQqWRr9"
+                    },
+                    {
+                        "nombre": "Luis Rodrigo Muñoz Kuri",
+                        "materias": ["DISEÑO Y GESTIÓN DE FLUJOS DE TRABAJO"],
+                        "encuesta": "https://forms.gle/tkk4KUYXGnnzFLJc9"
+                    },
+                    {
+                        "nombre": "Christian Esteban Rivera Águila",
+                        "materias": ["PRODUCCIÓN DE CINEMÁTICOS"],
+                        "encuesta": "https://forms.gle/TjnvpwHkx4q6YbHaA"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0120.2",
+                "profesores": [
+                    {
+                        "nombre": "GABRIELA ACOSTA GÓMEZ",
+                        "materias": ["TALLER DE PRODUCCIÓN I"],
+                        "encuesta": "https://docs.google.com/forms/d/1i6FyUBv51BxdU5iras7sc93nCKADH8-0M5T8TknGu8Y/edit?usp=sharing"
+                    },
+                    {
+                        "nombre": "Roberto Ham Peláez",
+                        "materias": ["PRODUCCIÓN DE CORTOMETRAJE DE ANIMACIÓN I"],
+                        "encuesta": "https://forms.gle/j5MpkL1NAeqCp5pE8"
+                    },
+                    {
+                        "nombre": "Arturo Hernández Muñoz",
+                        "materias": ["DISEÑO Y GESTIÓN DE FLUJOS DE TRABAJO"],
+                        "encuesta": "https://forms.gle/toixt8xwcafQqWRr9"
+                    },
+                    {
+                        "nombre": "Luis Rodrigo Muñoz Kuri",
+                        "materias": ["DISEÑO Y GESTIÓN DE FLUJOS DE TRABAJO"],
+                        "encuesta": "https://forms.gle/tkk4KUYXGnnzFLJc9"
+                    },
+                    {
+                        "nombre": "Alfredo Salomón Salazar",
+                        "materias": ["DISEÑO DE GRÁFICOS EN MOVIMIENTO"],
+                        "encuesta": "https://forms.gle/VvA3WtpQUVR2CyjT7"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0721.1",
+                "profesores": [
+                    {
+                        "nombre": "Walter Campoy Walkup",
+                        "materias": ["TALLER DE PUESTA EN ESCENA"],
+                        "encuesta": "https://forms.gle/wjrMZS9JHHLuN33S8"
+                    },
+                    {
+                        "nombre": "Roberto Ham Peláez",
+                        "materias": ["PUESTA EN ESCENA Y FONDOS"],
+                        "encuesta": "https://forms.gle/j5MpkL1NAeqCp5pE8"
+                    },
+                    {
+                        "nombre": "Imuri Juárez Elenes",
+                        "materias": ["MODELADO DE ESCENARIOS Y OBJETOS"],
+                        "encuesta": "https://forms.gle/ajHeUjeLEEZSFNrB8"
+                    },
+                    {
+                        "nombre": "Ana Lorena Medrano Azpiroz",
+                        "materias": ["DIBUJO GESTUAL"],
+                        "encuesta": "https://forms.gle/rb2ASjMvHKnkvGTN8"
+                    },
+                    {
+                        "nombre": "Andreas Papacostas Quintanilla",
+                        "materias": ["ANIMACIÓN 2D"],
+                        "encuesta": "https://forms.gle/Xqp22dNWmCs3cy878"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0721.2",
+                "profesores": [
+                    {
+                        "nombre": "MANUEL ALEJANDRO ALMAZAN ENRIQUEZ",
+                        "materias": ["ANIMACIÓN 2D"],
+                        "encuesta": "https://forms.gle/HoxAMvJ4uhDRw5WL6"
+                    },
+                    {
+                        "nombre": "Walter Campoy Walkup",
+                        "materias": ["TALLER DE PUESTA EN ESCENA"],
+                        "encuesta": "https://forms.gle/wjrMZS9JHHLuN33S8"
+                    },
+                    {
+                        "nombre": "Roberto Ham Peláez",
+                        "materias": ["PUESTA EN ESCENA Y FONDOS"],
+                        "encuesta": "https://forms.gle/j5MpkL1NAeqCp5pE8"
+                    },
+                    {
+                        "nombre": "Imuri Juárez Elenes",
+                        "materias": ["MODELADO DE ESCENARIOS Y OBJETOS"],
+                        "encuesta": "https://forms.gle/ajHeUjeLEEZSFNrB8"
+                    },
+                    {
+                        "nombre": "Ana Lorena Medrano Azpiroz",
+                        "materias": ["DIBUJO GESTUAL"],
+                        "encuesta": "https://forms.gle/rb2ASjMvHKnkvGTN8"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0721.3",
+                "profesores": [
+                    {
+                        "nombre": "MANUEL ALEJANDRO ALMAZAN ENRIQUEZ",
+                        "materias": ["ANIMACIÓN 2D"],
+                        "encuesta": "https://forms.gle/HoxAMvJ4uhDRw5WL6"
+                    },
+                    {
+                        "nombre": "Daniel Armando Cadena Llamas",
+                        "materias": ["MODELADO DE ESCENARIOS Y OBJETOS"],
+                        "encuesta": "https://forms.gle/F5uh6sSrmX4FNAR49"
+                    },
+                    {
+                        "nombre": "Walter Campoy Walkup",
+                        "materias": ["TALLER DE PUESTA EN ESCENA"],
+                        "encuesta": "https://forms.gle/wjrMZS9JHHLuN33S8"
+                    },
+                    {
+                        "nombre": "Carlos Fernando Gamboa Verduzco",
+                        "materias": ["DIBUJO GESTUAL"],
+                        "encuesta": "https://forms.gle/3MnFMK5dG46kNvHu7"
+                    },
+                    {
+                        "nombre": "Magaly Vega López",
+                        "materias": ["PUESTA EN ESCENA Y FONDOS"],
+                        "encuesta": "https://forms.gle/qEju6C2A2uYo9L2n9"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0122",
+                "profesores": [
+                    {
+                        "nombre": "Eusebio Bañuelos González",
+                        "materias": ["DIBUJO ANATÓMICO"],
+                        "encuesta": "https://forms.gle/uqpUx1fPNLAortiu7"
+                    },
+                    {
+                        "nombre": "Blanca Estela López Pérez",
+                        "materias": ["GUIONISMO"],
+                        "encuesta": "https://forms.gle/FCW7cRaFikvjeK3c8"
+                    },
+                    {
+                        "nombre": "Ana Lorena Medrano Azpiroz",
+                        "materias": ["IMAGEN DIGITAL"],
+                        "encuesta": "https://forms.gle/rb2ASjMvHKnkvGTN8"
+                    },
+                    {
+                        "nombre": "Christian Esteban Rivera Águila",
+                        "materias": ["LENGUAJE CINEMATOGRÁFICO"],
+                        "encuesta": "https://forms.gle/TjnvpwHkx4q6YbHaA"
+                    },
+                    {
+                        "nombre": "Paula Sabina Pérez",
+                        "materias": ["FUNDAMENTOS DEL DISEÑO"],
+                        "encuesta": "https://forms.gle/JhdrEzkC6mgPR3VR9"
+                    },
+                    {
+                        "nombre": "Paulina Alejandra Ugarte Chelén",
+                        "materias": ["ESCRITURA CREATIVA"],
+                        "encuesta": "https://forms.gle/QS4WQ4tokgaAbdSB7"
+                    },
+                    {
+                        "nombre": "Ulises Vázquez Padilla",
+                        "materias": ["ANÁLISIS DEL MOVIMIENTO CORPORAL"],
+                        "encuesta": "https://forms.gle/HSgJh8x7Fmwaa3QP6"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD1021",
+                "profesores": [
+                    {
+                        "nombre": "Eusebio Bañuelos González",
+                        "materias": ["DIBUJO DE LA FIGURA HUMANA"],
+                        "encuesta": "https://forms.gle/uqpUx1fPNLAortiu7"
+                    },
+                    {
+                        "nombre": "Daniel Armando Cadena Llamas",
+                        "materias": ["STORYBOARD Y ANIMATIC"],
+                        "encuesta": "https://forms.gle/F5uh6sSrmX4FNAR49"
+                    },
+                    {
+                        "nombre": "Jesús Enrique Gil De María y Campos",
+                        "materias": ["DISEÑO DE PERSONAJES"],
+                        "encuesta": "https://forms.gle/tmvUUM88WdCR5fUaA"
+                    },
+                    {
+                        "nombre": "Andreas Papacostas Quintanilla",
+                        "materias": ["PRINCIPIOS DE ANIMACIÓN 2D"],
+                        "encuesta": "https://forms.gle/Xqp22dNWmCs3cy878"
+                    },
+                    {
+                        "nombre": "Ulises Vázquez Padilla",
+                        "materias": ["ACTUACIÓN PARA ANIMADORES"],
+                        "encuesta": "https://forms.gle/HSgJh8x7Fmwaa3QP6"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0721.4",
+                "profesores": [
+                    {
+                        "nombre": "Daniel Armando Cadena Llamas",
+                        "materias": ["MODELADO DE ESCENARIOS Y OBJETOS"],
+                        "encuesta": "https://forms.gle/F5uh6sSrmX4FNAR49"
+                    },
+                    {
+                        "nombre": "Walter Campoy Walkup",
+                        "materias": ["TALLER DE PUESTA EN ESCENA"],
+                        "encuesta": "https://forms.gle/wjrMZS9JHHLuN33S8"
+                    },
+                    {
+                        "nombre": "Carlos Fernando Gamboa Verduzco",
+                        "materias": ["DIBUJO GESTUAL"],
+                        "encuesta": "https://forms.gle/3MnFMK5dG46kNvHu7"
+                    },
+                    {
+                        "nombre": "Andreas Papacostas Quintanilla",
+                        "materias": ["ANIMACIÓN 2D"],
+                        "encuesta": "https://forms.gle/Xqp22dNWmCs3cy878"
+                    },
+                    {
+                        "nombre": "Magaly Vega López",
+                        "materias": ["PUESTA EN ESCENA Y FONDOS"],
+                        "encuesta": "https://forms.gle/qEju6C2A2uYo9L2n9"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0719",
+                "profesores": [
+                    {
+                        "nombre": "Walter Campoy Walkup",
+                        "materias": ["PROYECTO TERMINAL DE ANIMACIÓN"],
+                        "encuesta": "https://forms.gle/wjrMZS9JHHLuN33S8"
+                    },
+                    {
+                        "nombre": "Gaspar Cárdenas Guzmán",
+                        "materias": ["DISEÑO SONORO"],
+                        "encuesta": "https://forms.gle/mXDvy5k9LLcp5imv9"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0121",
+                "profesores": [
+                    {
+                        "nombre": "Jesús Enrique Gil De María y Campos",
+                        "materias": ["TALLER DE DIBUJO DE ANIMALES"],
+                        "encuesta": "https://forms.gle/tmvUUM88WdCR5fUaA"
+                    },
+                    {
+                        "nombre": "David Patricio Hernández Castillo",
+                        "materias": ["SIMULACIÓN DE DINÁMICOS"],
+                        "encuesta": "https://forms.gle/CHH8NF2aWCTuUthg7"
+                    },
+                    {
+                        "nombre": "Imuri Juárez Elenes",
+                        "materias": ["MODELADO DE PERSONAJES 3D"],
+                        "encuesta": "https://forms.gle/ajHeUjeLEEZSFNrB8"
+                    },
+                    {
+                        "nombre": "Christian Esteban Rivera Águila",
+                        "materias": ["EFECTOS VISUALES POR SISTEMA DE NODOS"],
+                        "encuesta": "https://forms.gle/TjnvpwHkx4q6YbHaA"
+                    },
+                    {
+                        "nombre": "Paula Sabina Pérez",
+                        "materias": ["HISTORIA DEL ARTE MODERNO"],
+                        "encuesta": "https://forms.gle/JhdrEzkC6mgPR3VR9"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD120.2",
+                "profesores": [
+                    {
+                        "nombre": "Christian Esteban Rivera Águila",
+                        "materias": ["PRODUCCIÓN DE CINEMÁTICOS"],
+                        "encuesta": "https://forms.gle/TjnvpwHkx4q6YbHaA"
+                    }
+                ]
+            },
+            {
+                "grupo": "RECURSAMIENTO",
+                "profesores": [
+                    {
+                        "nombre": "Ana Lorena Medrano Azpiroz",
+                        "materias": ["IMAGEN DIGITAL"],
+                        "encuesta": "https://forms.gle/rb2ASjMvHKnkvGTN8"
+                    },
+                    {
+                        "nombre": "Arturo Navarro Durán",
+                        "materias": ["RIGGING 3D"],
+                        "encuesta": "https://forms.gle/CKQD7dNSy7NMkh7w8"
                     }
                 ]
             }
