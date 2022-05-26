@@ -1,0 +1,129 @@
+[
+    {
+        "id": 1,
+        "carrera": "INA",
+        "grupos": [
+            {
+                "nombre": "INA0122",
+                "asignaturas": [
+                    "Matemáticas discretas",
+                    "Fundamentos de administración",
+                    "Álgebra lineal",
+                    "Programación Estructurada I"
+                ],
+                "profesores": [
+                    "Héctor Maldonado Loyo",
+                    "Luis Guillermo Ortega Cué",
+                    "Luis Octavio Mendiola López",
+                    "Marco Antonio García Rodríguez"
+                ],
+                "links": [
+                    "https://forms.gle/NCkkRY3paybjsZz78",
+                    "https://forms.gle/vGAv1DRH5vPXn53N6",
+                    "https://forms.gle/XTS3WmTdqxWVnpkw5",
+                    "https://forms.gle/gtvk1zhss5VcK9KdA"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "carrera": "PRV",
+        "grupos": [
+            {
+                "nombre": "PRV0122",
+                "asignaturas": [
+                    "Matemáticas II",
+                    "Semiótica",
+                    "Matemáticas discretas",
+                    "Fundamentos de Programación"
+                ],
+                "profesores": [
+                    "Héctor Maldonado Loyo",
+                    "Luis Guillermo Ortega Cué",
+                    "Luis Octavio Mendiola López",
+                    "Rogelio Trejo Pérez"
+                ],
+                "links": [
+                    "https://forms.gle/NCkkRY3paybjsZz78",
+                    "https://forms.gle/vGAv1DRH5vPXn53N6",
+                    "https://forms.gle/XTS3WmTdqxWVnpkw5",
+                    "https://forms.gle/Lvhs6CEzC3rrwNh7A"
+                ]
+            },
+            {
+                "nombre": "PRV1021",
+                "asignaturas": [
+                    "Narrativa Multilineal",
+                    "Scrpting y Prototipos",
+                    "Cálculo Diferencial e Integral I",
+                    "Programación Estructurada I"
+                ],
+                "profesores": [
+                    "Josué Rodrigo Contreras Granados",
+                    "Marco Antonio García Rodríguez",
+                    "Néstor Darwin Pérez Munguía",
+                    "Rogelio Trejo Pérez"
+                ],
+                "links": [
+                    "https://forms.gle/NbypdPSG62TgkwhF6",
+                    "https://forms.gle/gtvk1zhss5VcK9KdA",
+                    "https://forms.gle/T75TgxuKBsF2WJxJ8",
+                    "https://forms.gle/Lvhs6CEzC3rrwNh7A"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "carrera": "CIA",
+        "grupos": [
+            {
+                "nombre": "CI0122",
+                "asignaturas": [
+                    "Matemáticas Discretas"
+                ],
+                "profesores": [
+                    "Héctor Maldonado Loyo"
+                ],
+                "links": [
+                    "https://forms.gle/NCkkRY3paybjsZz78"
+                ]
+            },
+            {
+                "nombre": "CIA1021",
+                "asignaturas": [
+                    "Análisis de Riesgos y Clasificación de la Información",
+                    "Fundamentos de Ciberseguridad",
+                    "Teoría de Matemáticas Aplicadas a la Computación",
+                    "Gestión de Sistemas Operativos"
+                ],
+                "profesores": [
+                    "José Alberto Ávalos Velez",
+                    "Luis Octavio Mendiola López",
+                    "Néstor Darwin Pérez Munguía",
+                    "Silverio Zambrano González"
+                ],
+                "links": [
+                    "https://forms.gle/YkJAFdAP4qNNRXS59",
+                    "https://forms.gle/XTS3WmTdqxWVnpkw5",
+                    "https://forms.gle/T75TgxuKBsF2WJxJ8",
+                    "https://forms.gle/DCxcoMScVjgxJ7ZC6"
+                ]
+            },
+            {
+                "nombre": "CIA0122",
+                "asignaturas": [
+                    "Redes de computadoras y fortalecimiento de sistemas operativos",
+                    "Fundamentos de Investigación de Mercados",
+                    "Aruitectura de sistemas de seguridad física"
+                ],
+                "profesores": [
+                    "Luis Arturo Ruíz Velázquez",
+                    "Luis Guillermo Ortega Cué",
+                    "Luis Octavio Mendiola López"
+                ]
+            }
+        ]
+    }
+]
