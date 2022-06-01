@@ -7,11 +7,6 @@
                 "grupo": "AFXD1019",
                 "profesores": [
                     {
-                        "nombre": "Daniel Armando Cadena Llamas",
-                        "materias": ["TALLER DE PRODUCCIÓN II"],
-                        "encuesta": "https://forms.gle/F5uh6sSrmX4FNAR49"
-                    },
-                    {
                         "nombre": "Andreas Papacostas Quintanilla",
                         "materias": ["PRODUCCIÓN DE CORTOMETRAJE DE ANIMACIÓN II"],
                         "encuesta": "https://forms.gle/Xqp22dNWmCs3cy878"
@@ -24,13 +19,33 @@
                 ]
             },
             {
-                "grupo": "AFXD1020",
+                "grupo": "AFXD0719.1",
                 "profesores": [
                     {
-                        "nombre": "Daniel Armando Cadena Llamas",
-                        "materias": ["HISTORIA DEL CINE ANIMADO"],
-                        "encuesta": "https://forms.gle/F5uh6sSrmX4FNAR49"
+                        "nombre": "Jorge Mondragón Cruz",
+                        "materias": ["DISEÑO SONORO"],
+                        "encuesta": "https://forms.gle/eDexHj9y4ZVudZMn6"
                     },
+                    {
+                        "nombre": "Luis Gabriel González Gedovius",
+                        "materias": ["PROYECTO TERMINAL DE ANIMACIÓN"],
+                        "encuesta": "https://forms.gle/Nom46rAGAdfS3x5d6"
+                    },
+                    {
+                        "nombre": "Carlos Alberto Gutiérrez Martínez",
+                        "materias": ["PROYECTO TERMINAL DE ANIMACIÓN"],
+                        "encuesta": "https://forms.gle/GFfDWidbNYJx5mU98"
+                    },
+                    {
+                        "nombre": "Roberto Ham Peláez",
+                        "materias": ["PROYECTO TERMINAL DE ANIMACIÓN"],
+                        "encuesta": "https://forms.gle/j5MpkL1NAeqCp5pE8"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD1020",
+                "profesores": [
                     {
                         "nombre": "Carlos Fernando Gamboa Verduzco",
                         "materias": ["TALLER DE CINE ANIMADO"],
@@ -45,6 +60,11 @@
                         "nombre": "Dulce María Romero Mier y Terán",
                         "materias": ["MARCO LEGAL PARA LOS NUEVOS MEDIOS"],
                         "encuesta": "https://forms.gle/KH4qXxPJ5BMRRyzK8"
+                    },
+                    {
+                        "nombre": "Arturo Hernández Muñoz",
+                        "materias": ["ANIMACIÓN DE PERSONAJES 3D: MECÁNICA CORPORAL"],
+                        "encuesta": "https://forms.gle/toixt8xwcafQqWRr9"
                     }
                 ]
             },
@@ -52,7 +72,7 @@
                 "grupo": "AFXD0720",
                 "profesores": [
                     {
-                        "nombre": "GABRIELA ACOSTA GÓMEZ",
+                        "nombre": "Gabriela Acosta Gómez",
                         "materias": ["GESTIÓN DE NEGOCIOS EN LOS NUEVOS MEDIOS"],
                         "encuesta": "https://docs.google.com/forms/d/1i6FyUBv51BxdU5iras7sc93nCKADH8-0M5T8TknGu8Y/edit?usp=sharing"
                     },
@@ -77,7 +97,7 @@
                 "grupo": "AFXD0120.1",
                 "profesores": [
                     {
-                        "nombre": "GABRIELA ACOSTA GÓMEZ",
+                        "nombre": "Gabriela Acosta Gómez",
                         "materias": ["TALLER DE PRODUCCIÓN I"],
                         "encuesta": "https://docs.google.com/forms/d/1i6FyUBv51BxdU5iras7sc93nCKADH8-0M5T8TknGu8Y/edit?usp=sharing"
                     },
@@ -92,11 +112,6 @@
                         "encuesta": "https://forms.gle/j5MpkL1NAeqCp5pE8"
                     },
                     {
-                        "nombre": "Arturo Hernández Muñoz",
-                        "materias": ["DISEÑO Y GESTIÓN DE FLUJOS DE TRABAJO"],
-                        "encuesta": "https://forms.gle/toixt8xwcafQqWRr9"
-                    },
-                    {
                         "nombre": "Luis Rodrigo Muñoz Kuri",
                         "materias": ["DISEÑO Y GESTIÓN DE FLUJOS DE TRABAJO"],
                         "encuesta": "https://forms.gle/tkk4KUYXGnnzFLJc9"
@@ -105,6 +120,11 @@
                         "nombre": "Christian Esteban Rivera Águila",
                         "materias": ["PRODUCCIÓN DE CINEMÁTICOS"],
                         "encuesta": "https://forms.gle/TjnvpwHkx4q6YbHaA"
+                    },
+                    {
+                        "nombre": "Vanessa Quintanilla Cobo",
+                        "materias": ["PRODUCCIÓN DE CORTOMETRAJE DE ANIMACIÓN I"],
+                        "encuesta": "https://forms.gle/NGE5k1NtsTSZDUEu7"
                     }
                 ]
             },
@@ -112,7 +132,7 @@
                 "grupo": "AFXD0120.2",
                 "profesores": [
                     {
-                        "nombre": "GABRIELA ACOSTA GÓMEZ",
+                        "nombre": "Gabriela Acosta Gómez",
                         "materias": ["TALLER DE PRODUCCIÓN I"],
                         "encuesta": "https://docs.google.com/forms/d/1i6FyUBv51BxdU5iras7sc93nCKADH8-0M5T8TknGu8Y/edit?usp=sharing"
                     },
@@ -120,11 +140,6 @@
                         "nombre": "Roberto Ham Peláez",
                         "materias": ["PRODUCCIÓN DE CORTOMETRAJE DE ANIMACIÓN I"],
                         "encuesta": "https://forms.gle/j5MpkL1NAeqCp5pE8"
-                    },
-                    {
-                        "nombre": "Arturo Hernández Muñoz",
-                        "materias": ["DISEÑO Y GESTIÓN DE FLUJOS DE TRABAJO"],
-                        "encuesta": "https://forms.gle/toixt8xwcafQqWRr9"
                     },
                     {
                         "nombre": "Luis Rodrigo Muñoz Kuri",
@@ -135,6 +150,11 @@
                         "nombre": "Alfredo Salomón Salazar",
                         "materias": ["DISEÑO DE GRÁFICOS EN MOVIMIENTO"],
                         "encuesta": "https://forms.gle/VvA3WtpQUVR2CyjT7"
+                    },
+                    {
+                        "nombre": "Vanessa Quintanilla Cobo",
+                        "materias": ["PRODUCCIÓN DE CORTOMETRAJE DE ANIMACIÓN I"],
+                        "encuesta": "https://forms.gle/NGE5k1NtsTSZDUEu7"
                     }
                 ]
             },
@@ -172,7 +192,7 @@
                 "grupo": "AFXD0721.2",
                 "profesores": [
                     {
-                        "nombre": "MANUEL ALEJANDRO ALMAZAN ENRIQUEZ",
+                        "nombre": "Manuel Alejandro Almazán Enriquez",
                         "materias": ["ANIMACIÓN 2D"],
                         "encuesta": "https://forms.gle/HoxAMvJ4uhDRw5WL6"
                     },
@@ -202,7 +222,7 @@
                 "grupo": "AFXD0721.3",
                 "profesores": [
                     {
-                        "nombre": "MANUEL ALEJANDRO ALMAZAN ENRIQUEZ",
+                        "nombre": "Manuel Alejandro Almazán Enriquez",
                         "materias": ["ANIMACIÓN 2D"],
                         "encuesta": "https://forms.gle/HoxAMvJ4uhDRw5WL6"
                     },
@@ -277,11 +297,6 @@
                         "encuesta": "https://forms.gle/uqpUx1fPNLAortiu7"
                     },
                     {
-                        "nombre": "Daniel Armando Cadena Llamas",
-                        "materias": ["STORYBOARD Y ANIMATIC"],
-                        "encuesta": "https://forms.gle/F5uh6sSrmX4FNAR49"
-                    },
-                    {
                         "nombre": "Jesús Enrique Gil De María y Campos",
                         "materias": ["DISEÑO DE PERSONAJES"],
                         "encuesta": "https://forms.gle/tmvUUM88WdCR5fUaA"
@@ -329,21 +344,6 @@
                 ]
             },
             {
-                "grupo": "AFXD0719",
-                "profesores": [
-                    {
-                        "nombre": "Walter Campoy Walkup",
-                        "materias": ["PROYECTO TERMINAL DE ANIMACIÓN"],
-                        "encuesta": "https://forms.gle/wjrMZS9JHHLuN33S8"
-                    },
-                    {
-                        "nombre": "Gaspar Cárdenas Guzmán",
-                        "materias": ["DISEÑO SONORO"],
-                        "encuesta": "https://forms.gle/mXDvy5k9LLcp5imv9"
-                    }
-                ]
-            },
-            {
                 "grupo": "AFXD0121",
                 "profesores": [
                     {
@@ -384,6 +384,56 @@
                 ]
             },
             {
+                "grupo": "AFXD1021.1",
+                "profesores": [
+                    {
+                        "nombre": "Rodrigo De la Vega Urrutia",
+                        "materias": ["STORYBOARD Y ANIMATIC"],
+                        "encuesta": "https://forms.gle/aBiqyUXRD7oNFybZ9"
+                    },
+                    {
+                        "nombre": "Ana Lorena Medrano Azpiroz",
+                        "materias": ["TALLER DE LA FIGURA HUMANA"],
+                        "encuesta": "https://forms.gle/rb2ASjMvHKnkvGTN8"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD1020.1",
+                "profesores": [
+                    {
+                        "nombre": "Rodrigo De la Vega Urrutia",
+                        "materias": ["HISTORIA DEL CINE ANIMADO"],
+                        "encuesta": "https://forms.gle/aBiqyUXRD7oNFybZ9"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD0720.1",
+                "profesores": [
+                    {
+                        "nombre": "Rodrigo De la Vega Urrutia",
+                        "materias": ["CONCEPTUALIZACIÓN DE PROYECTO"],
+                        "encuesta": "https://forms.gle/aBiqyUXRD7oNFybZ9"
+                    }
+                ]
+            },
+            {
+                "grupo": "AFXD1019.1",
+                "profesores": [
+                    {
+                        "nombre": "Rodrigo De la Vega Urrutia",
+                        "materias": ["CONCEPTUALIZACIÓN DE PROYECTO"],
+                        "encuesta": "https://forms.gle/aBiqyUXRD7oNFybZ9"
+                    },
+                    {
+                        "nombre": "Magaly Vega López",
+                        "materias": ["PRODUCCIÓN DE CORTOMETRAJE DE ANIMACIÓN II"],
+                        "encuesta": "https://forms.gle/qEju6C2A2uYo9L2n9"
+                    }
+                ]
+            },
+            {
                 "grupo": "RECURSAMIENTO",
                 "profesores": [
                     {
@@ -408,7 +458,7 @@
                 "grupo": "GDD0719",
                 "profesores": [
                     {
-                        "nombre": "MANUEL ALEJANDRO ALMAZAN ENRIQUEZ",
+                        "nombre": "Manuel Alejandro Almazán Enriquez",
                         "materias": ["SEMINARIO DE DISEÑO DE VIDEOJUEGOS"],
                         "encuesta": "https://forms.gle/HoxAMvJ4uhDRw5WL6"
                     }
@@ -423,11 +473,6 @@
                         "encuesta": "https://forms.gle/j37m1doPVqPw4LBx6"
                     },
                     {
-                        "nombre": "Gaspar Cárdenas Guzmán",
-                        "materias": ["AUDIO PARA PROYECTOS INTERACTIVOS"],
-                        "encuesta": "https://forms.gle/mXDvy5k9LLcp5imv9"
-                    },
-                    {
                         "nombre": "Ernesto Ríos Solis",
                         "materias": ["DISEÑO AVANZADO DE JUEGOS"],
                         "encuesta": "https://forms.gle/dJmzk1f4tz6RvEB9A"
@@ -436,6 +481,11 @@
                         "nombre": "German Sosa Castañón",
                         "materias": ["CONCEPTUALIZACIÓN DE PROYECTO"],
                         "encuesta": "https://forms.gle/a2FBQpiEdmbg2YXWA"
+                    },
+                    {
+                        "nombre": "Jorge Mondragón Cruz",
+                        "materias": ["AUDIO PARA PROYECTOS INTERACTIVOS"],
+                        "encuesta": "https://forms.gle/eDexHj9y4ZVudZMn6"
                     }
                 ]
             },
@@ -443,7 +493,7 @@
                 "grupo": "GDD1019",
                 "profesores": [
                     {
-                        "nombre": "MANUEL ALEJANDRO ALMAZAN ENRIQUEZ",
+                        "nombre": "Manuel Alejandro Almazán Enriquez",
                         "materias": ["DISEÑO Y PROGRAMACIÓN DE VIDEOJUEGOS II"],
                         "encuesta": "https://forms.gle/HoxAMvJ4uhDRw5WL6"
                     },
@@ -456,6 +506,21 @@
                         "nombre": "Enrique David Preza Hernández",
                         "materias": ["GESTIÓN DE NEGOCIOS EN LOS NUEVOS MEDIOS"],
                         "encuesta": "https://forms.gle/wZEmC6KaDCTJREzJ6"
+                    },
+                    {
+                        "nombre": "Roque Alejandro Hernández Pérez",
+                        "materias": ["DISEÑO Y PROGRAMACIÓN DE VIDEOJUEGOS II"],
+                        "encuesta": "https://forms.gle/k2qLSiLJqk9XxShq8"
+                    }
+                ]
+            },
+            {
+                "grupo": "GDD0719.1",
+                "profesores": [
+                    {
+                        "nombre": "Carlos Alberto Gutiérrez Martínez",
+                        "materias": ["SEMINARIO DE DISEÑO DE VIDEOJUEGOS"],
+                        "encuesta": "https://forms.gle/GFfDWidbNYJx5mU98"
                     }
                 ]
             },
@@ -463,7 +528,7 @@
                 "grupo": "GDD1020",
                 "profesores": [
                     {
-                        "nombre": "MANUEL ALEJANDRO ALMAZAN ENRIQUEZ",
+                        "nombre": "Manuel Alejandro Almazán Enriquez",
                         "materias": ["ANIMACIÓN 3D", "DISEÑO Y PROGRAMACIÓN DE VIDEOJUEGOS I"],
                         "encuesta": "https://forms.gle/HoxAMvJ4uhDRw5WL6"
                     },
@@ -506,17 +571,17 @@
                         "nombre": "Marco Omar Torres Hernández",
                         "materias": ["DISEÑO DE NIVELES"],
                         "encuesta": "https://forms.gle/c2xXM7QibGur4GwN7"
+                    },
+                    {
+                        "nombre": "Rodrigo De la Vega Urrutia",
+                        "materias": ["HISTORIA DEL ARTE MODERNO"],
+                        "encuesta": "https://forms.gle/aBiqyUXRD7oNFybZ9"
                     }
                 ]
             },
             {
                 "grupo": "GDD1021",
                 "profesores": [
-                    {
-                        "nombre": "Gaspar Cárdenas Guzmán",
-                        "materias": ["ARTE PARA VIDEOJUEGOS"],
-                        "encuesta": "https://forms.gle/mXDvy5k9LLcp5imv9"
-                    },
                     {
                         "nombre": "Aitor Lander De Icaza Astiz",
                         "materias": ["FUNDAMENTOS MATEMÁTICOS"],
@@ -531,17 +596,17 @@
                         "nombre": "Paulina Alejandra Ugarte Chelén",
                         "materias": ["NARRATIVA Y DESARROLLO DE PERSONAJES"],
                         "encuesta": "https://forms.gle/QS4WQ4tokgaAbdSB7"
+                    },
+                    {
+                        "nombre": "Roque Alejandro Hernández Pérez",
+                        "materias": ["ARTE PARA VIDEOJUEGOS"],
+                        "encuesta": "https://forms.gle/k2qLSiLJqk9XxShq8"
                     }
                 ]
             },
             {
                 "grupo": "GDD0721",
                 "profesores": [
-                    {
-                        "nombre": "Gaspar Cárdenas Guzmán",
-                        "materias": ["DISEÑO DE JUEGOS"],
-                        "encuesta": "https://forms.gle/mXDvy5k9LLcp5imv9  "
-                    },
                     {
                         "nombre": "Ilan González Carigi",
                         "materias": ["INTRODUCCIÓN A LA PROGRAMACIÓN DE VIDEOJUEGOS"],
@@ -560,27 +625,17 @@
                 ]
             },
             {
-                "grupo": "GPD0122",
+                "grupo": "GDD0721.1",
                 "profesores": [
                     {
-                        "nombre": "Aitor Lander De Icaza Astiz",
-                        "materias": ["ÁLGEBRA VECTORIAL"],
-                        "encuesta": "https://forms.gle/6kyPQ6G6g1baLhtQ6"
+                        "nombre": "Antonio Camarillo Vázquez",
+                        "materias": ["GUIONISMO Y LENGUAJE CINEMATOGRÁFICO"],
+                        "encuesta": "https://forms.gle/eXdTWX6sCVw2PKhUA"
                     },
                     {
-                        "nombre": "Anni Garza Lau",
-                        "materias": ["INTRODUCCIÓN A LA PROGRAMACIÓN DE VIDEOJUEGOS"],
-                        "encuesta": "https://forms.gle/VXVAPMuT3C8s1ygX6"
-                    },
-                    {
-                        "nombre": "José Bernardo Ledón Roig",
-                        "materias": ["DISEÑO DE LA COMUNICACIÓN"],
-                        "encuesta": "https://forms.gle/bN3eHwxJNpmt5aWv9"
-                    },
-                    {
-                        "nombre": "Blanca Estela López Pérez",
-                        "materias": ["NARRATIVA Y DESARROLLO DE PERSONAJES"],
-                        "encuesta": "https://forms.gle/FCW7cRaFikvjeK3c8"
+                        "nombre": "Roque Alejandro Hernández Pérez",
+                        "materias": ["DISEÑO DE JUEGOS"],
+                        "encuesta": "https://forms.gle/k2qLSiLJqk9XxShq8"
                     }
                 ]
             },
@@ -621,6 +676,16 @@
                         "nombre": "Marcos Samuel Valle León",
                         "materias": ["INTRODUCCIÓN A LA COMPUTACIÓN"],
                         "encuesta": "https://forms.gle/MAPnNkq1p5ScHg36A"
+                    },
+                    {
+                        "nombre": "Eusebio Bañuelos González",
+                        "materias": ["DIBUJO ANATÓMICO"],
+                        "encuesta": "https://forms.gle/uqpUx1fPNLAortiu7"
+                    },
+                    {
+                        "nombre": "Paula Sabina Pérez",
+                        "materias": ["ANÁLISIS HISTÓRICO DE LA IMAGEN"],
+                        "encuesta": "https://forms.gle/JhdrEzkC6mgPR3VR9"
                     }
                 ]
             },
@@ -638,9 +703,14 @@
                         "encuesta": "https://forms.gle/bN3eHwxJNpmt5aWv9"
                     },
                     {
-                        "nombre": "Arturo Navarro Durán",
-                        "materias": ["MERCADOTECNIA PARA LOS NUEVOS MEDIOS"],
-                        "encuesta": "https://forms.gle/CKQD7dNSy7NMkh7w8"
+                        "nombre": "Roque Alejandro Hernández Pérez",
+                        "materias": ["DISEÑO Y PROGRAMACIÓN DE VIDEOJUEGOS I"],
+                        "encuesta": "https://forms.gle/k2qLSiLJqk9XxShq8"
+                    },
+                    {
+                        "nombre": "Manuel Alejandro Almazán Enriquez",
+                        "materias": ["DISEÑO Y PROGRAMACIÓN DE VIDEOJUEGOS I"],
+                        "encuesta": "https://forms.gle/HoxAMvJ4uhDRw5WL6"
                     }
                 ]
             }
@@ -654,11 +724,6 @@
                 "grupo": "MBDD0120",
                 "profesores": [
                     {
-                        "nombre": "SANTIAGO ÁLVAREZ CACHO",
-                        "materias": ["ROLES Y PROTOCOLOS EN EVENTOS"],
-                        "encuesta": "https://forms.gle/32N35aLMnqzaQS9G8"
-                    },
-                    {
                         "nombre": "Christian Alain Balderas Aceves",
                         "materias": ["APRECIACIÓN MUSICAL"],
                         "encuesta": "https://forms.gle/QJmtQYfzCK5UhZXPA"
@@ -670,7 +735,7 @@
                     },
                     {
                         "nombre": "Gonzalo Rosado Murguia",
-                        "materias": ["ROLES Y PROTOCOLOS EN EVENTOS"],
+                        "materias": ["ROLES Y PROTOCOLOS EN EVENTOS", "PRODUCCIÓN EJECUTIVA DE EVENTOS"],
                         "encuesta": "https://forms.gle/1aKizZu5vZKR9rocA"
                     }
                 ]
@@ -679,7 +744,7 @@
                 "grupo": "MBDD1019",
                 "profesores": [
                     {
-                        "nombre": "JESÚS LOMBARDO ARMENTA LÓPEZ",
+                        "nombre": "Jesús Lombardo Armenta López",
                         "materias": ["DESARROLLO DE PROYECTO FINAL I"],
                         "encuesta": "https://forms.gle/9PVGYseh1f3ouHoi8"
                     },
@@ -704,7 +769,7 @@
                 "grupo": "MBDD0719",
                 "profesores": [
                     {
-                        "nombre": "JESÚS LOMBARDO ARMENTA LÓPEZ",
+                        "nombre": "Jesús Lombardo Armenta López",
                         "materias": ["DESARROLLO DE PROYECTO FINAL II"],
                         "encuesta": "https://forms.gle/9PVGYseh1f3ouHoi8"
                     },
@@ -907,6 +972,31 @@
                 ]
             },
             {
+                "grupo": "GPD0122",
+                "profesores": [
+                    {
+                        "nombre": "Aitor Lander De Icaza Astiz",
+                        "materias": ["ÁLGEBRA VECTORIAL"],
+                        "encuesta": "https://forms.gle/6kyPQ6G6g1baLhtQ6"
+                    },
+                    {
+                        "nombre": "Anni Garza Lau",
+                        "materias": ["INTRODUCCIÓN A LA PROGRAMACIÓN DE VIDEOJUEGOS"],
+                        "encuesta": "https://forms.gle/VXVAPMuT3C8s1ygX6"
+                    },
+                    {
+                        "nombre": "José Bernardo Ledón Roig",
+                        "materias": ["DISEÑO DE LA COMUNICACIÓN"],
+                        "encuesta": "https://forms.gle/bN3eHwxJNpmt5aWv9"
+                    },
+                    {
+                        "nombre": "Blanca Estela López Pérez",
+                        "materias": ["NARRATIVA Y DESARROLLO DE PERSONAJES"],
+                        "encuesta": "https://forms.gle/FCW7cRaFikvjeK3c8"
+                    }
+                ]
+            },
+            {
                 "grupo": "GPD0121",
                 "profesores": [
                     {
@@ -923,6 +1013,11 @@
                         "nombre": "Yunúen Vladimir Lenin Sánchez Garrido",
                         "materias": ["PROGRAMACIÓN ORIENTADA A OBJETOS III"],
                         "encuesta": "https://forms.gle/yknfkFQceSDAFftCA"
+                    },
+                    {
+                        "nombre": "Enrique David Preza Hernández",
+                        "materias": ["GESTIÓN DE NEGOCIOS EN LOS NUEVOS MEDIOS"],
+                        "encuesta": "https://forms.gle/wZEmC6KaDCTJREzJ6"
                     }
                 ]
             },
@@ -947,42 +1042,12 @@
                 ]
             },
             {
-                "grupo": "GPD0122",
-                "profesores": [
-                    {
-                        "nombre": "José Bernardo Ledón Roig",
-                        "materias": ["DISEÑO DE LA COMUNICACIÓN"],
-                        "encuesta": "https://forms.gle/bN3eHwxJNpmt5aWv9"
-                    },
-                    {
-                        "nombre": "Blanca Estela López Pérez",
-                        "materias": ["NARRATIVA Y DESARROLLO DE PERSONAJES"],
-                        "encuesta": "https://forms.gle/FCW7cRaFikvjeK3c8"
-                    }
-                ]
-            },
-            {
-                "grupo": "GPD0721",
-                "profesores": [
-                    {
-                        "nombre": "Felipe Mandujano Gómez",
-                        "materias": ["REDES Y BASES DE DATOS"],
-                        "encuesta": "https://forms.gle/g86jdpELtC95FKsZ9"
-                    },
-                    {
-                        "nombre": "Adidier Monzerrat Pérez Gómez",
-                        "materias": ["PROGRAMACIÓN ORIENTADA A OBJETOS I"],
-                        "encuesta": "https://forms.gle/X1GciaxnQ8ByJ3Fd7"
-                    }
-                ]
-            },
-            {
                 "grupo": "GPD1020",
                 "profesores": [
                     {
-                        "nombre": "Alejandro Hernández Pérez Roque",
+                        "nombre": "Roque Alejandro Hernández Pérez",
                         "materias": ["DISEÑO Y DESARROLLO DE APLICACIONES DE REALIDAD VIRTUAL Y REALIDAD AUMENTADA"],
-                        "encuesta": "https://forms.gle/5gRQJqapG7RjcZ9J7"
+                        "encuesta": "https://forms.gle/k2qLSiLJqk9XxShq8"
                     },
                     {
                         "nombre": "Adidier Monzerrat Pérez Gómez",
@@ -993,6 +1058,11 @@
                         "nombre": "Yunúen Vladimir Lenin Sánchez Garrido",
                         "materias": ["INTELIGENCIA ARTIFICIAL"],
                         "encuesta": "https://forms.gle/yknfkFQceSDAFftCA"
+                    },
+                    {
+                        "nombre": "José Ramón Arias González",
+                        "materias": ["DISEÑO DE SISTEMA DE JUEGO"],
+                        "encuesta": "https://forms.gle/j37m1doPVqPw4LBx6"
                     }
                 ]
             },
@@ -1008,6 +1078,11 @@
                         "nombre": "Rubén Dario Hernández Mendo",
                         "materias": ["SERIOUS GAMES"],
                         "encuesta": "https://forms.gle/PrEJtNHSJF4w8Lrw5"
+                    },
+                    {
+                        "nombre": "Iván André Chapela Fauchey",
+                        "materias": ["PANORAMA DE LA INDUSTRIA DEL VIDEOJUEGO"],
+                        "encuesta": "https://forms.gle/WpZ5sBuUkYDHC4WM6"
                     }
                 ]
             },
@@ -1018,6 +1093,11 @@
                         "nombre": "Yunúen Vladimir Lenin Sánchez Garrido",
                         "materias": ["SEMINARIO DE PROGRAMACIÓN DE VIDEOJUEGOS"],
                         "encuesta": "https://forms.gle/yknfkFQceSDAFftCA"
+                    },
+                    {
+                        "nombre": "José Bernardo Ledón Roig",
+                        "materias": ["SEMINARIO DE PROGRAMACIÓN DE VIDEOJUEGOS"],
+                        "encuesta": "https://forms.gle/bN3eHwxJNpmt5aWv9"
                     }
                 ]
             }
@@ -1031,7 +1111,7 @@
                 "grupo": "AED0420",
                 "profesores": [
                     {
-                        "nombre": "JESÚS LOMBARDO ARMENTA LÓPEZ",
+                        "nombre": "Jesús Lombardo Armenta López",
                         "materias": ["INVESTIGACIÓN APLICADA A LA INDUSTRIA DE LOS MEDIOS CREATIVOS"],
                         "encuesta": "https://forms.gle/9PVGYseh1f3ouHoi8"
                     },
@@ -1129,6 +1209,11 @@
                         "nombre": "Gabriel Mendoza Cabrerra",
                         "materias": ["PRODUCCIÓN EJECUTIVA DE EVENTOS"],
                         "encuesta": "https://forms.gle/14N77RnDFubDBVxM6"
+                    },
+                    {
+                        "nombre": "José Luis Rodríguez Castaño",
+                        "materias": ["TÉCNICAS DE MEZCLA I"],
+                        "encuesta": "https://forms.gle/qE4t7FjHBHDZ9Gaq7"
                     }
                 ]
             },
@@ -1183,7 +1268,7 @@
                     {
                         "nombre": "Jorge Mondragón Cruz",
                         "materias": ["ELECTRÓNICA"],
-                        "encuesta": "https://forms.gle/hZduZsdRUHNrhuin6"
+                        "encuesta": "https://forms.gle/eDexHj9y4ZVudZMn6"
                     },
                     {
                         "nombre": "Blanca Alitzel Rueda Flores",
@@ -1238,7 +1323,7 @@
                     {
                         "nombre": "Jorge Mondragón Cruz",
                         "materias": ["MATEMÁTICAS PARA INGENIERÍA EN AUDIO"],
-                        "encuesta": "https://forms.gle/hZduZsdRUHNrhuin6"
+                        "encuesta": "https://forms.gle/eDexHj9y4ZVudZMn6"
                     }
                 ]
             },
@@ -1579,7 +1664,7 @@
                     {
                         "nombre": "Jorge Mondragón Cruz",
                         "materias": ["EDICIÓN DE AUDIO"],
-                        "encuesta": "https://forms.gle/hZduZsdRUHNrhuin6"
+                        "encuesta": "https://forms.gle/eDexHj9y4ZVudZMn6"
                     },
                     {
                         "nombre": "Pedro Enrique Moya Diaz",
@@ -1615,7 +1700,7 @@
                     {
                         "nombre": "Antonio Camarillo Vázquez",
                         "materias": ["GÉNEROS CINEMATOGRÁFICOS"],
-                        "encuesta": "https://forms.gle/e2ES5NYNb7wVoPYy5"
+                        "encuesta": "https://forms.gle/eXdTWX6sCVw2PKhUA"
                     },
                     {
                         "nombre": "Ana Cecilia Llanes Briceño",
@@ -1655,7 +1740,7 @@
                     {
                         "nombre": "Antonio Camarillo Vázquez",
                         "materias": ["GÉNEROS CINEMATOGRÁFICOS"],
-                        "encuesta": "https://forms.gle/e2ES5NYNb7wVoPYy5"
+                        "encuesta": "https://forms.gle/eXdTWX6sCVw2PKhUA"
                     },
                     {
                         "nombre": "Samuel González Lugo",
@@ -1681,6 +1766,11 @@
                         "nombre": "Cesar Alberto Uriarte Rivera",
                         "materias": ["PUESTA EN ESCENA"],
                         "encuesta": "https://forms.gle/HDiWYZD6fcRSUMw16"
+                    },
+                    {
+                        "nombre": "Roberto Sandoval Ramírez",
+                        "materias": ["DISEÑO DE PRODUCCIÓN"],
+                        "encuesta": "https://forms.gle/7q5GAw8quj3LLKAcA"
                     }
                 ]
             },
@@ -1711,6 +1801,11 @@
                         "nombre": "Arian Juan Adolfo Sánchez Covisa",
                         "materias": ["TALLER DE CINEFOTOGRAFÍA PARA PROYECTO FINAL I"],
                         "encuesta": "https://forms.gle/RmXG5UDRkWFxrN2C7"
+                    },
+                    {
+                        "nombre": "Danny José Serrano Dugarte",
+                        "materias": ["DIRECCIÓN Y PRODUCCIÓN PARA PROYECTO FINAL II"],
+                        "encuesta": "https://forms.gle/A9tVjo99H8DCZvD39"
                     }
                 ]
             },
@@ -1765,7 +1860,7 @@
                     {
                         "nombre": "Jorge Mondragón Cruz",
                         "materias": ["TALLER DE SONIDO DE PROYECTO FINAL"],
-                        "encuesta": "https://forms.gle/hZduZsdRUHNrhuin6"
+                        "encuesta": "https://forms.gle/eDexHj9y4ZVudZMn6"
                     }
                 ]
             },
@@ -1785,7 +1880,47 @@
                     {
                         "nombre": "Jorge Mondragón Cruz",
                         "materias": ["TALLER DE SONIDO DE PROYECTO FINAL"],
-                        "encuesta": "https://forms.gle/hZduZsdRUHNrhuin6"
+                        "encuesta": "https://forms.gle/eDexHj9y4ZVudZMn6"
+                    }
+                ]
+            },
+            {
+                "grupo": "DFD1020",
+                "profesores": [
+                    {
+                        "nombre": "Eduardo De la Vara Brown",
+                        "materias": ["BANDA SONORA"],
+                        "encuesta": "https://forms.gle/hMAvb5YKiKPoshEs9"
+                    },
+                    {
+                        "nombre": "Adriana José González Velásquez",
+                        "materias": ["TALLER AVANZADO DE MONTAJE DOCUMENTAL"],
+                        "encuesta": "https://forms.gle/Gz3PtZxmMC6rSodEA"
+                    },
+                    {
+                        "nombre": "David Patricio Hernández Castillo",
+                        "materias": ["EFECTOS VISUALES II"],
+                        "encuesta": "https://forms.gle/CHH8NF2aWCTuUthg7"
+                    },
+                    {
+                        "nombre": "Gustavo Alberto Meléndez Madrid",
+                        "materias": ["POST PRODUCCIÓN AVANZADA"],
+                        "encuesta": "https://forms.gle/xmifW82TVFPoA5vRA"
+                    },
+                    {
+                        "nombre": "Jorge Mondragón Cruz",
+                        "materias": ["EDICIÓN Y DISEÑO SONORO AVANZADO"],
+                        "encuesta": "https://forms.gle/eDexHj9y4ZVudZMn6"
+                    },
+                    {
+                        "nombre": "Rocío Ortiz Aguilar",
+                        "materias": ["CORRECCIÓN DE COLOR AVANZADA"],
+                        "encuesta": "https://forms.gle/n54GoZN6WUBZfK5Y8"
+                    },
+                    {
+                        "nombre": "Mario Alfredo Viveros Barragán",
+                        "materias": ["PROYECTO DOCUMENTAL II"],
+                        "encuesta": "https://forms.gle/7cR6nC8K1okXKHeg6"
                     }
                 ]
             },
@@ -1804,13 +1939,18 @@
                     },
                     {
                         "nombre": "Samuel González Lugo",
-                        "materias": ["SEMINARIO DE TITULACIÓN II"],
+                        "materias": ["SEMINARIO DE TITULACIÓN II", "DIRECCIÓN"],
                         "encuesta": "https://forms.gle/b5G8SPtu6h6QDVRB8"
                     },
                     {
                         "nombre": "Adriana José González Velásquez",
                         "materias": ["MONTAJE AUDIOVISUAL"],
                         "encuesta": "https://forms.gle/Gz3PtZxmMC6rSodEA"
+                    },
+                    {
+                        "nombre": "Víctor Hugo Magaña Fernández",
+                        "materias": ["DIRECCIÓN"],
+                        "encuesta": "https://forms.gle/AKNU7SxtL14Vy5Pr7"
                     },
                     {
                         "nombre": "Gustavo Alberto Meléndez Madrid",
@@ -1820,7 +1960,7 @@
                     {
                         "nombre": "Jorge Mondragón Cruz",
                         "materias": ["EDICIÓN DE SONIDO"],
-                        "encuesta": "https://forms.gle/hZduZsdRUHNrhuin6"
+                        "encuesta": "https://forms.gle/eDexHj9y4ZVudZMn6"
                     },
                     {
                         "nombre": "Christian Esteban Rivera Águila",
@@ -1841,6 +1981,21 @@
                         "nombre": "Adriana José González Velásquez",
                         "materias": ["TALLER AVANZADO DE MONTAJE DOCUMENTAL"],
                         "encuesta": "https://forms.gle/Gz3PtZxmMC6rSodEA"
+                    },
+                    {
+                        "nombre": "Veronique Marie Decroux González",
+                        "materias": ["CINEFOTOGRAFÍA DE FICCIÓN"],
+                        "encuesta": "https://forms.gle/BQ785Mfpj1xgftMx8"
+                    },
+                    {
+                        "nombre": "David Patricio Hernández Castillo",
+                        "materias": ["EFECTOS VISUALES II"],
+                        "encuesta": "https://forms.gle/CHH8NF2aWCTuUthg7"
+                    },
+                    {
+                        "nombre": "César Ortiz Yañez",
+                        "materias": ["DISTRIBUCIÓN Y MARKETING"],
+                        "encuesta": "https://forms.gle/qidJtQE2fo6eGdsr6"
                     }
                 ]
             },
@@ -1946,6 +2101,11 @@
                         "nombre": "Arian Juan Adolfo Sánchez Covisa",
                         "materias": ["CINEFOTOGRAFÍA DIGITAL III"],
                         "encuesta": "https://forms.gle/RmXG5UDRkWFxrN2C7"
+                    },
+                    {
+                        "nombre": "Mario Raúl Villegas Rojano",
+                        "materias": ["AFTER EFFECTS Y MOTION GRAPHICS"],
+                        "encuesta": "https://forms.gle/d738bVqRqVsCipnr6"
                     }
                 ]
             },
@@ -1981,16 +2141,6 @@
                         "nombre": "Mario Alfredo Viveros Barragán",
                         "materias": ["PROYECTO DOCUMENTAL I"],
                         "encuesta": "https://forms.gle/7cR6nC8K1okXKHeg6"
-                    }
-                ]
-            },
-            {
-                "grupo": "  DFD0720.2",
-                "profesores": [
-                    {
-                        "nombre": "Víctor Hugo Magaña Fernández",
-                        "materias": ["DIRECCIÓN DE FICCIÓN"],
-                        "encuesta": "https://forms.gle/AKNU7SxtL14Vy5Pr7"
                     }
                 ]
             }
