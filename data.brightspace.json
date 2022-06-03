@@ -640,26 +640,6 @@
                 ]
             },
             {
-                "grupo": "GPD0721",
-                "profesores": [
-                    {
-                        "nombre": "Aitor Lander De Icaza Astiz",
-                        "materias": ["FÍSICA APLICADA A LA PROGRAMACIÓN DE VIDEOJUEGOS", "PROBABILIDAD Y ESTADÍSTICA"],
-                        "encuesta": "https://forms.gle/6kyPQ6G6g1baLhtQ6"
-                    },
-                    {
-                        "nombre": "Felipe Mandujano Gómez",
-                        "materias": ["REDES Y BASES DE DATOS"],
-                        "encuesta": "https://forms.gle/g86jdpELtC95FKsZ9"
-                    },
-                    {
-                        "nombre": "Adidier Monzerrat Pérez Gómez",
-                        "materias": ["PROGRAMACIÓN ORIENTADA A OBJETOS I"],
-                        "encuesta": "https://forms.gle/X1GciaxnQ8ByJ3Fd7"
-                    }
-                ]
-            },
-            {
                 "grupo": "GDD0122",
                 "profesores": [
                     {
@@ -968,6 +948,26 @@
                         "nombre": "Yunúen Vladimir Lenin Sánchez Garrido",
                         "materias": ["DISEÑO Y PROGRAMACIÓN DE VIDEOJUEGOS I"],
                         "encuesta": "https://forms.gle/yknfkFQceSDAFftCA"
+                    }
+                ]
+            },
+            {
+                "grupo": "GPD0721",
+                "profesores": [
+                    {
+                        "nombre": "Aitor Lander De Icaza Astiz",
+                        "materias": ["FÍSICA APLICADA A LA PROGRAMACIÓN DE VIDEOJUEGOS", "PROBABILIDAD Y ESTADÍSTICA"],
+                        "encuesta": "https://forms.gle/6kyPQ6G6g1baLhtQ6"
+                    },
+                    {
+                        "nombre": "Felipe Mandujano Gómez",
+                        "materias": ["REDES Y BASES DE DATOS"],
+                        "encuesta": "https://forms.gle/g86jdpELtC95FKsZ9"
+                    },
+                    {
+                        "nombre": "Adidier Monzerrat Pérez Gómez",
+                        "materias": ["PROGRAMACIÓN ORIENTADA A OBJETOS I"],
+                        "encuesta": "https://forms.gle/X1GciaxnQ8ByJ3Fd7"
                     }
                 ]
             },
@@ -1517,7 +1517,7 @@
                     },
                     {
                         "nombre": "Swedborg Morales Covarrubias",
-                        "materias": ["ACÚSTICA", "TEORÍA MUSICAL III"],
+                        "materias": ["ACÚSTICA"],
                         "encuesta": "https://forms.gle/YeV23enXMxN2pvTa8"
                     },
                     {
