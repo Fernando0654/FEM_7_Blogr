@@ -79,18 +79,6 @@
         "carrera": "CIA",
         "grupos": [
             {
-                "nombre": "CI0122",
-                "asignaturas": [
-                    "Matemáticas Discretas"
-                ],
-                "profesores": [
-                    "Héctor Maldonado Loyo"
-                ],
-                "links": [
-                    "https://forms.gle/NCkkRY3paybjsZz78"
-                ]
-            },
-            {
                 "nombre": "CIA1021",
                 "asignaturas": [
                     "Análisis de Riesgos y Clasificación de la Información",
@@ -114,6 +102,7 @@
             {
                 "nombre": "CIA0122",
                 "asignaturas": [
+                    "Matemáticas Discretas",
                     "Redes de computadoras y fortalecimiento de sistemas operativos",
                     "Fundamentos de Investigación de Mercados",
                     "Aruitectura de sistemas de seguridad física"
@@ -121,7 +110,14 @@
                 "profesores": [
                     "Luis Arturo Ruíz Velázquez",
                     "Luis Guillermo Ortega Cué",
-                    "Luis Octavio Mendiola López"
+                    "Luis Octavio Mendiola López",
+                    "Héctor Maldonado Loyo"
+                ],
+                "links": [
+                    "https://forms.gle/RZMTM2jktn6V7zUF7",
+                    "https://forms.gle/vGAv1DRH5vPXn53N6",
+                    "https://forms.gle/XTS3WmTdqxWVnpkw5",
+                    "https://forms.gle/NCkkRY3paybjsZz78"
                 ]
             }
         ]
