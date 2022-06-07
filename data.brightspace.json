@@ -83,7 +83,7 @@
                     },
                     {
                         "nombre": "Arturo Hernández Muñoz",
-                        "materias": ["ANIMACIÓN DE PERSONAJES 3D: MECÁNICA CORPORAL", "ANIMACIÓN DE PERSONAJES 3D: EXPRESIÓN CORPORAL"],
+                        "materias": ["ANIMACIÓN DE PERSONAJES 3D: EXPRESIÓN CORPORAL"],
                         "encuesta": "https://forms.gle/toixt8xwcafQqWRr9"
                     },
                     {
@@ -529,7 +529,7 @@
                 "profesores": [
                     {
                         "nombre": "Manuel Alejandro Almazán Enriquez",
-                        "materias": ["ANIMACIÓN 3D", "DISEÑO Y PROGRAMACIÓN DE VIDEOJUEGOS I"],
+                        "materias": ["ANIMACIÓN 3D"],
                         "encuesta": "https://forms.gle/HoxAMvJ4uhDRw5WL6"
                     },
                     {
@@ -1833,11 +1833,6 @@
                         "encuesta": "https://forms.gle/A9tVjo99H8DCZvD39"
                     },
                     {
-                        "nombre": "Danny José Serrano Dugarte",
-                        "materias": ["TALLER DE DIRECCIÓN DE PROYECTO FINAL"],
-                        "encuesta": "https://forms.gle/A9tVjo99H8DCZvD39"
-                    },
-                    {
                         "nombre": "Eduardo Venado Chávez",
                         "materias": ["DESARROLLO DE CARPETA II"],
                         "encuesta": "https://forms.gle/izSJtXiBPMwmR9u8A"
@@ -1996,6 +1991,12 @@
                         "nombre": "César Ortiz Yañez",
                         "materias": ["DISTRIBUCIÓN Y MARKETING"],
                         "encuesta": "https://forms.gle/qidJtQE2fo6eGdsr6"
+                    },
+                    {
+                        "nombre": "Samuel González Lugo",
+                        "materias": ["SEMIÓTICA DE LA CIENCIA Y LA CULTURA"],
+                        "encuesta": "https://forms.gle/b5G8SPtu6h6QDVRB8"
+
                     }
                 ]
             },
